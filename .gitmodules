@@ -1,0 +1,6 @@
+[submodule "Lab4"]
+	path = Lab4
+	url = git@gbc-git:gbc-ekos/101480050_COMP3123-exec04.git
+[submodule "Labs/Lab4"]
+	path = Labs/Lab4
+	url = git@gbc-git:gbc-ekos/101480050_COMP3123-exec04.git
